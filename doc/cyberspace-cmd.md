@@ -3,3 +3,4 @@
 - I am from West Covina
 - My favorite food is Mediterranean 
 - My hobby is mixing and producing electronic music
+- **Favorite Color:** Neon Blue
